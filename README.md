@@ -1,7 +1,8 @@
 # ReactJS - SpaceTraveling 
-## Uma aplicação de um Blog que foi criado do zero utilizando Next.js e\ 
-## que consome os dados do Prismic e sua interface foi implementada
-## conforme um layout do Figma.
+### Uma aplicação de um Blog que foi criado do zero utilizando Next.js e
+### que consome os dados do Prismic e sua interface foi implementada
+### conforme um layout do Figma.
+ 
 
 ## Available Scripts
 
