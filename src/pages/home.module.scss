@@ -1,1 +1,54 @@
 // TODO
+.container {
+  margin: 4rem auto;
+}
+
+.post {
+
+  h1 {
+    font-size: 1.75rem;
+  }
+
+  a:not(:first-child) {
+    display: block;
+    margin-top: 3rem;
+  }
+
+  p {
+    font-size: 1.125rem;
+    font-weight: 400;
+    margin: 0.5rem auto 1.5rem;
+    color: var(--gray-300);
+  }
+
+  div {
+    display: inline-flex;
+    height: 1.25rem;
+    color: var(--gray-500);
+
+    time {
+      font-size: 0.875rem;
+      font-weight: 400;
+      margin-left: 0.5rem;
+      margin-right: 1.5rem;
+    }
+
+    p {
+      font-size: 0.875rem;
+      font-weight: 400;
+      margin: 0 0.5rem;
+    }
+  }
+
+  button {
+    font-size: 1.125rem;
+    font-weight: 600;
+    margin-top: 4rem;
+    color: var(--pink-500);
+    border: none;
+    outline: none;
+    background: transparent;
+  }  
+
+
+}
