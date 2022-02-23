@@ -1,7 +1,24 @@
 # ReactJS - SpaceTraveling 
-## Uma aplicação de um Blog que foi criado do zero utilizando Next.js e\ 
-## que consome os dados do Prismic e sua interface foi implementada
-## conforme um layout do Figma.
+
+<br>
+
+### Uma aplicação de um Blog que foi criada do zero com as seguintes tecnologias:</h3>
+
+  <ul>:arrow_right: Desenvolvida com Framework React Next.js</ul>
+  <ul>:arrow_right: Dados consumidos através do Sistema de Gerenciamento de Conteúdo do Prismic</ul>
+  <ul>:arrow_right: Comentário no Post utilizando Utteranc</ul>
+  <ul>:arrow_right: Interface implementada conforme um layout do Figma</ul>
+<br>
+
+### Funcionalidades:</h3>
+
+  <ul>:arrow_right: Lista de Posts publicados com paginação através do botão "Carrega mais"</ul>
+  <ul>:arrow_right: Acesso na íntegra do Post escolhido </ul>
+  <ul>:arrow_right: Informação sobre a última atualização do Post </ul>
+  <ul>:arrow_right: Possibilidade de fazer comentários no Post</ul>
+  <ul>:arrow_right: Navegação ao Post anterior ou posterior do Post acessado </ul>
+<br>
+
 
 ## Available Scripts
 

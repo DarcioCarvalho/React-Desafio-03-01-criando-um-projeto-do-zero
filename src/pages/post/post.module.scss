@@ -17,6 +17,7 @@
 
   .info {
     display: flex;
+    align-items: center;
     margin-top: 1.5rem;
     height: 1.25rem;
     font-size: 0.875rem;
@@ -40,6 +41,15 @@
     }
 
   }
+
+  .editado {
+    display: flex;
+    margin-top: 1rem;
+    font-size: 0.875rem;
+    font-weight: 400;
+    font-style: italic;
+    color: var(--gray-500)
+  }
   
   h3 {
     display: flex;
@@ -60,10 +70,74 @@
       color: var(--pink-500);
     }
   }
+}
+
+.footer {
+  max-width: 700px;
+  display: block;
+  margin: 0 auto;
+
+  hr {
+    border-color: var(--gray-300);
+  }
+
+  .navigation {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 3rem;
+
+    h3 {
+      font-size: 1.125rem;
+      font-weight: 400;
+      color: var(--white-900);
+    }
+
+    a {
+      font-weight: 600;
+      color: var(--pink-500);
+    
+      transition: filter 0.2s;
+
+      &:hover {
+        filter: brightness(0.8);
+      }
+    }
+
+  }
 
   
+  .comments {
+    margin-top: 5rem;  
+  }  
+
+  aside {
+    width: 43.75rem;
+    height: 3.625rem;
+    margin-top: 5.5rem;
+    border-radius: 0.25rem;
+    background: var(--white-900);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    transition: filter 0.2s;
+
+    &:hover {
+      filter: brightness(0.8);
+    }
+
+    a {
+      font-size: 1.125rem;
+      font-weight: 600;
+      color: var(--black-900)
+    }
+  }
 
 
 }
+
+
 
 
