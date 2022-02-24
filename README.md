@@ -2,7 +2,6 @@
 
 <br>
 
-<<<<<<< HEAD
 ### Uma aplicação de um Blog que foi criada do zero com as seguintes tecnologias:</h3>
 
   <ul>:arrow_right: Desenvolvida com Framework React Next.js</ul>
@@ -20,14 +19,6 @@
   <ul>:arrow_right: Navegação ao Post anterior ou posterior do Post acessado </ul>
 <br>
 
-=======
-### Uma aplicação de um Blog que foi criada do zero com as seguintes caracterísiticas:</h3>
-
-  <ul>:arrow_right: Desenvolvida com Framework React Next.js</ul>
-  <ul>:arrow_right: Dados consumidos através do Sistema de Gerenciamento de Conteúdo do Prismic</ul>
-  <ul>:arrow_right: Interface implementada conforme um layout do Figma</ul>
-<br>
->>>>>>> 5c824a0d75b0f21d08833a881769f999c456fafd
 
 ## Available Scripts
 
